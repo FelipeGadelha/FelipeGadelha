@@ -18,12 +18,19 @@
 <br>
 <br>
 
-<div align="center">
-	<img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeGadelha&show_icons=true&langs_count=10&layout=compact&theme=tokyonight&count_private=true"/>
-	<img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=felipeGadelha&show_icons=true&theme=tokyonight"/>
-<div/>
+<p align="center">
+  <img align="center"
+      alt="Felipe Gadelha Github stats"
+      style="margin-bottom: 10px;"
+      height="165" src="https://github-readme-stats.vercel.app/api?username=felipeGadelha&theme=tokyonight&show_icons=true&count_private=true" />
+  <img
+    align="center"
+    alt="Most used languages"
+    style="margin-bottom: 10px;"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felipeGadelha&layout=compact&langs_count=6&theme=tokyonight&show_icons=true&count_private=true"
+  />
+</p>
 
-<br>
 <br>
 
 ### My technology Stack 👩‍💻
