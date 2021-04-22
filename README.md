@@ -15,9 +15,6 @@
       <img alt="Twitter" src="https://img.shields.io/twitter/follow/Felipe52956739?label=Follow%20%40Felipe52956739&logo=Twitter&style=flat"></a>
 </p>
 
-<br>
-<br>
-
 <p align="center">
   <img align="center"
       alt="Felipe Gadelha Github stats"
