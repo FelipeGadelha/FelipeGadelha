@@ -19,17 +19,11 @@
 <br>
 
 <center>
-	<table>
-		<tr>
-			<td>
-				<img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeGadelha&show_icons=true&langs_count=10&layout=compact&theme=tokyonight&count_private=true"/>
-			</td>
-			<td>
-				<img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=felipeGadelha&show_icons=true&theme=tokyonight"/>
-			</td>
-		</tr>
-	</table>
+<img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeGadelha&show_icons=true&langs_count=10&layout=compact&theme=tokyonight&count_private=true"/>
+<img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=felipeGadelha&show_icons=true&theme=tokyonight"/>
 </center>
+<br>
+<br>
 
 ### My technology Stack 👩‍💻
 
