@@ -15,6 +15,22 @@
       <img alt="Twitter" src="https://img.shields.io/twitter/follow/Felipe52956739?label=Follow%20%40Felipe52956739&logo=Twitter&style=flat"></a>
 </p>
 
+<br>
+<br>
+
+<center>
+	<table>
+		<tr>
+			<td>
+				<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeGadelha&show_icons=true&langs_count=10&layout=compact&theme=tokyonight&count_private=true"/>
+			</td>
+			<td>
+				<img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=felipeGadelha&show_icons=true&theme=tokyonight"/>
+			</td>
+		</tr>
+	</table>
+</center>
+
 ### My technology Stack 👩‍💻
 
 <img align="left" height="32px" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
