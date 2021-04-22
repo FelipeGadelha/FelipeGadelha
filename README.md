@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Contacts
+### Find me elsewhere 🌎
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCTHEnDuI2uIYeTwV4RR7nOA">
