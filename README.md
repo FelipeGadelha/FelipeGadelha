@@ -27,7 +27,7 @@
     alt="Most used languages"
     height="180em"
     style="margin-bottom: 10px;"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felipeGadelha&layout=compact&langs_count=8&theme=tokyonight&show_icons=true&count_private=true"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felipeGadelha&layout=compact&langs_count=10&theme=tokyonight&show_icons=true&count_private=true"
   />
 </p>
 
