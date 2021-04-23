@@ -21,12 +21,13 @@
   <img align="center"
       alt="Felipe Gadelha Github stats"
       style="margin-bottom: 10px;"
-      height="165" src="https://github-readme-stats.vercel.app/api?username=felipeGadelha&theme=tokyonight&show_icons=true&count_private=true" />
+       height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeGadelha&theme=tokyonight&show_icons=true&count_private=true" />
   <img
     align="center"
     alt="Most used languages"
+    height="180em"
     style="margin-bottom: 10px;"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felipeGadelha&layout=compact&langs_count=6&theme=tokyonight&show_icons=true&count_private=true"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felipeGadelha&layout=compact&langs_count=8&theme=tokyonight&show_icons=true&count_private=true"
   />
 </p>
 
