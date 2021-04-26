@@ -53,10 +53,10 @@
 
 <br />
 <br />
+<!--
 
 <img alt="stack" src="https://raw.githubusercontent.com/FelipeGadelha/FelipeGadelha/main/.github/imgs/Stack.png" />
 
-<!--
 **FelipeGadelha/FelipeGadelha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
