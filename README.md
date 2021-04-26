@@ -54,7 +54,7 @@
 <br />
 <br />
 
-<img alt="stack" src="https://raw.githubusercontent.com/felipeGadelha/felipeGadelha/master/.github/imgs/stack.png" />
+<img alt="stack" src="https://raw.githubusercontent.com/felipeGadelha/felipeGadelha/main/.github/imgs/stack.png" />
 
 <!--
 **FelipeGadelha/FelipeGadelha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
