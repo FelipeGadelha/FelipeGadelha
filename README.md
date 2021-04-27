@@ -73,6 +73,9 @@
 
 ### learning the technologies 👩‍💻
 
+<img align="left" alt="Typescript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img align="left" height="32px"  alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" height="32px" width="32px" alt="Expo" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg"/>
 
 <!--
 
@@ -81,7 +84,7 @@
 
 ##### Languages
 
-<img align="left" alt="Typescript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">&nbsp;&nbsp;
+
 <img align="left" height="32px" alt="Nodejs" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
 <img align="left" alt="Kotlin" height="32" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">
 <img align="left" alt="Dart" height="32" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">&nbsp;&nbsp;
@@ -90,8 +93,6 @@
 
 ##### Frameworks
 
-<img align="left" height="32px"  alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" height="32px" width="32px" alt="Expo" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg"/>
 <img align="left" alt="Flutter" height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">&nbsp;&nbsp;
 
 ##### Databases
@@ -113,7 +114,6 @@
 
 <br />
 <br />
-<!--
 
 <img alt="stack" src="https://raw.githubusercontent.com/FelipeGadelha/FelipeGadelha/main/.github/imgs/Stack.png" />
 
