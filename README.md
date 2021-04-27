@@ -59,6 +59,8 @@
 
 ### learning the technologies 👩‍💻
 
+<img align="left" height="32px" width="32px" alt="graphql" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"/>&nbsp;&nbsp;
+
 ##### Languages
 
 <img align="left" alt="Typescript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">&nbsp;&nbsp;
@@ -74,7 +76,8 @@
 
 ##### Infra
 
-<img align="left" height="32px" width="32px" alt="graphql" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="Graphql"/>
+<img align="left" height="30px" width="45px" alt="kafka" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"/>
+
 <br />
 <br />
 <!--
