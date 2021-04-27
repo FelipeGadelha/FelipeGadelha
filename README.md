@@ -73,6 +73,9 @@
 
 ### learning the technologies 👩‍💻
 
+
+<!--
+
 <img align="left" height="32px" width="32px" alt="Graphql" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"/>
 <img align="left" height="32px" width="32px" alt="Gradle" src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg"/>&nbsp;&nbsp;
 
