@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=FelipeGadelha&color=green)
+
 ### Find me elsewhere 🌎
 
 <p align="center">
