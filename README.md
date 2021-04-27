@@ -35,20 +35,20 @@
 
 ### My technology Stack 👩‍💻
 
-#### Languages
+##### Languages
 
 <img align="left" alt="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">&nbsp;&nbsp;
 
-#### Frameworks
+##### Frameworks
 
 <img align="left" alt="Spring" height="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring">&nbsp;&nbsp;
 
-#### Databases
+##### Databases
 
 <img align="left" alt="MySql" height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">&nbsp;&nbsp;
 <img align="left" alt="Postgresql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 
-#### Infra
+##### Infra
 
 <img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Git" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
@@ -59,20 +59,20 @@
 
 ### learning the technologies 👩‍💻
 
-#### Languages
+##### Languages
 
 <img align="left" alt="Typescript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">&nbsp;&nbsp;
 <img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/>
 
-#### Frameworks
+##### Frameworks
 
 <img align="left" height="32px"  alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />&nbsp;&nbsp;
 
-#### Databases
+##### Databases
 
 <img align="left" alt="MongoDB" height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">&nbsp;&nbsp;
 
-#### Infra
+##### Infra
 
 <img align="left" height="32px" width="32px" alt="graphql" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="Graphql"/>
 <br />
