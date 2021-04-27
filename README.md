@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=FelipeGadelha&color=green)
+![](https://komarev.com/ghpvc/?username=FelipeGadelha&color=brightgreen)
 
 ### Find me elsewhere 🌎
 
