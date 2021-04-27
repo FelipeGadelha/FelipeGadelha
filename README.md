@@ -39,7 +39,6 @@
 <img align="left" alt="Visual Studio Code" height="30" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
 <img align="left" alt="Ubuntu" height="30" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg">
 <img align="left" alt="Chocolatey" height="30" src="https://www.vectorlogo.zone/logos/chocolatey/chocolatey-icon.svg">
-<img align="left" alt="ShieldsIo" height="30" src="https://www.vectorlogo.zone/logos/shieldsio/shieldsio-ar21.svg">
 <img align="left" alt="Eclipse" height="30" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg">&nbsp;&nbsp;
 
 
