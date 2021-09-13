@@ -46,7 +46,7 @@
 ##### Languages
 
 <img align="left" alt="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">&nbsp;&nbsp;
-
+<img align="left" alt="Kotlin" height="32" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">
 
 ##### Frameworks
 
@@ -87,7 +87,6 @@
 
 
 <img align="left" height="32px" alt="Nodejs" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
-<img align="left" alt="Kotlin" height="32" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">
 <img align="left" alt="Dart" height="32" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">&nbsp;&nbsp;
 
 
