@@ -43,12 +43,12 @@
 <img align="left" alt="ShieldsIo" height="30" src="https://www.vectorlogo.zone/logos/shieldsio/shieldsio-icon.svg">
 <img align="left" alt="Eclipse" height="30" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg">&nbsp;&nbsp;
 
-
-
 ##### Languages
-
-<img align="left" alt="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">&nbsp;&nbsp;
-<img align="left" alt="Kotlin" height="32" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">
+<div>
+	<img style="align-self: center;" height="32" alt="Golang" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"/>
+	<img style="align-self: center;" alt="Java" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+	<img style="align-self: center;" alt="Kotlin" height="32" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">&nbsp;&nbsp;
+</div>
 
 ##### Frameworks
 
@@ -56,7 +56,6 @@
 <img align="left" alt="Hibernate" height="32" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg">
 <img align="left" alt="OpenApis" height="32" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg">
 <img align="left" alt="Cucumber" height="32" src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg">&nbsp;&nbsp;
-
 
 ##### Databases
 
@@ -75,7 +74,6 @@
 
 ### learning the technologies 👩‍💻
 
-<img align="left" height="40" alt="Golang" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"/>
 <img align="left" alt="Typescript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="left" height="32px"  alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" height="32px" width="32px" alt="Expo" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg"/>
